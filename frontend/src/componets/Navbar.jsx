@@ -1,7 +1,7 @@
 // import { Model } from 'mongoose'
 import Model from './Model'
 import React,{useEffect, useState} from 'react'
-import InputForm from './inputForm'
+import InputForm from './InputForm'
 import { NavLink } from 'react-router-dom'
 
 
